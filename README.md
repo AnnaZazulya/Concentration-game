@@ -1,2 +1,3 @@
 # Concentration-game
-xcode test
+This is my test app on swift
+
